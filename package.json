@@ -1,6 +1,6 @@
 {
   "name": "grf-vid-pr",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Video Processing Module",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -109,6 +109,9 @@
       }
     }
   },
+  "bundledDependencies": [
+    "node_modules/"
+  ],
   "eslintConfig": {
     "root": true,
     "extends": [

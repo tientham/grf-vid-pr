@@ -18,5 +18,6 @@ const GrfVidPr = NativeModules.GrfVidPr
     );
 
 export function multiply(a: number, b: number): Promise<number> {
+  console.log(`[LOG] multiply of ${a} and ${b}`);
   return GrfVidPr.multiply(a, b);
 }

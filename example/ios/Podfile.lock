@@ -70,7 +70,7 @@ PODS:
     - FlipperKit/FlipperKitNetworkPlugin
   - fmt (6.2.1)
   - glog (0.3.5)
-  - grf-vid-pr (0.1.0):
+  - grf-vid-pr (0.1.1-rc1):
     - RCT-Folly (= 2021.07.22.00)
     - React-Core
   - hermes-engine (0.72.4):
@@ -675,7 +675,7 @@ SPEC CHECKSUMS:
   FlipperKit: 2efad7007d6745a3f95e4034d547be637f89d3f6
   fmt: ff9d55029c625d3757ed641535fd4a75fedc7ce9
   glog: 04b94705f318337d7ead9e6d17c019bd9b1f6b1b
-  grf-vid-pr: 8a6edf54d594ada2c639229e638dd3d72f165f2f
+  grf-vid-pr: 7bcc4b53703fb2acb4257534e5eaf06550ce3113
   hermes-engine: 81191603c4eaa01f5e4ae5737a9efcf64756c7b2
   libevent: 4049cae6c81cdb3654a443be001fb9bdceff7913
   OpenSSL-Universal: ebc357f1e6bc71fa463ccb2fe676756aff50e88c
