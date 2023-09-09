@@ -1,6 +1,6 @@
 {
   "name": "grf-vid-pr",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Video Processing Module",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
